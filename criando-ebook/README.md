@@ -46,7 +46,8 @@ Este repositório contém todo o passo a passo da criação do e-book **"Cavalei
 
 ## ✨ **Features**
 
-- Título e conteúdo gerados via ChatGPT.
+- Título gerado via ChatGPT.
+- Conteúdo conteúdo gerados via Gamma.
 - Imagens épicas criadas com IA utilizando o Microsoft Bing Image Generator.
 - Design temático inspirado em fantasia e tecnologia.
 
