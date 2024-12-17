@@ -35,7 +35,7 @@ Este repositório contém todo o passo a passo da criação do e-book **"Cavalei
 | Ação             | Prompt                                                                                                                                                                                    |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Criação do Título | "Crie um título de e-book épico e curto sobre perseverança na programação com tema de cavaleiros e dragões. Liste 5 variações."                                                          |
-| Geração do Texto  | "Escreva um texto inspirador para um capítulo de e-book sobre perseverança na programação, usando metáforas de cavaleiros enfrentando dragões, com foco em lidar com bugs e frustrações." |
+| Geração do Texto  | "Crie um e-book chamado 'Cavaleiros do Código: Enfrentando os Dragões da Perseverança'. Inclua uma introdução sobre perseverança em programação (usando a metáfora de um cavaleiro enfrentando um dragão para alcançar objetivo), 4 capítulos (1 - curva de aprendizado e frustração, 2 - bugs e erros, 3- autoconfiança e praticar, 4 - momentos de sucesso) sobre desafios do código e autoconfiança, e uma conclusão inspiradora. Use metáforas de cavaleiros e dragões." |
 
 ### **Bing Image Generator**  
 | Ação                   | Prompt                                                                                              |
