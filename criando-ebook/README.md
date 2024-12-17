@@ -68,7 +68,7 @@ Este repositório contém todo o passo a passo da criação do e-book **"Cavalei
 
 ---
 
-## 👩‍💻 **Autor**
+## 👩‍💻 **Autora**
 
 <p>
     <img 
