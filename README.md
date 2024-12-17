@@ -29,10 +29,11 @@ Este repositório serve como um espaço para organizar e compartilhar os desafio
 - **Ferramentas**: ChatGPT, Bing Image Generator, Gamma IA.
 - **[Acesse o projeto aqui](./criando-ebook/output/cavaleiros-do-codigo.pdf)**
 
-### 2. 
-- **Descrição**:
-- **Ferramentas**:
-- **[Acesse o projeto aqui]()**
+### 2. Podcast: O Poder dos Dados
+**Descrição**: Podcast focado em dados, com uma abordagem épica sobre como iniciar na área de dados e dominar o poder da informação, com trocadilhos nerds e dicas valiosas para iniciantes.
+**Ferramentas**: ChatGPT, PolyBuzz, ElevenLabs.
+**[Acesse o projeto aqui](./criando-podcast/output/podcast-ep1.mp3)**
+
 
 ### 3. 
 - **Descrição**:

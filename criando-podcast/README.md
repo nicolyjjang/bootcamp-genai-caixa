@@ -5,7 +5,10 @@
 />
 </p>
 
-
+<p align="center">
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://www.microsoft.com/en-us/ai/copilot" title="Microsoft Copilot"><img src="https://img.shields.io/badge/IA-Generativa-blue?logo=microsoft" alt="IA Generativa"></a>
+</p>
 
 <p align="center">
     preview do podcast
@@ -33,7 +36,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Audio gerado pela elevenlabs
 - Capas gerada via polybuzz
 
 ## 📚 Materiais
